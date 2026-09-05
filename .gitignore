@@ -1,18 +1,25 @@
+# Local build files
+/.build/
+
+# Local test files
+/input.txt
+/output.txt
+
+# VS Code configuration
+/.vscode/
+
+# macOS
+.DS_Store
+
 # C/C++ generated files
 *.exe
 *.out
 *.o
 *.obj
 
-# Local input/output
-input.txt
-output.txt
-
-# VS Code
-.vscode/
-
 # Temporary files
 *.tmp
 *.bak
 *.cpp.*
 *.cpp_*
+.*.cpp_*
